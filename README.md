@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AsansD
+- 👀 I’m interested in Programming as hobby
+- 🌱 I’m currently learning LUA
+- 📫 How to reach me patrikcz.scr@gmail.com
